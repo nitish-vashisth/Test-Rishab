@@ -18,7 +18,6 @@ Test Repository for tutorial
   - [[Interview Experience]: MIcrosoft SDE-2 | Hyderabad](https://leetcode.com/discuss/interview-experience/5299198/Interview-Experience%3A-MIcrosoft-SDE-2-or-Hyderabad)
   - [Microsoft | SDE2 | Bangalore | 6th June 2024](https://leetcode.com/discuss/interview-experience/5272810/Microsoft-or-SDE2-or-Bangalore-or-6th-June-2024)
   - [Microsoft | SDE2 | Bangalore | 31 May 2024 [Reject]](https://leetcode.com/discuss/interview-experience/5269388/Microsoft-or-SDE2-or-Bangalore-or-31-May-2024-Reject)
-  - 
 
 ## Adobe
 
