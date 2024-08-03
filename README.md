@@ -16,7 +16,6 @@ Test Repository for tutorial
   - [Microsoft | SDE 2 (L61) | Noida | May 2024 [Offer]](https://leetcode.com/discuss/interview-experience/5317286/Microsoft-or-SDE-2-(L61)-or-Noida-or-May-2024-Offer)
   - [[Interview Experience]: Microsoft SDE-2 | Hyderabad | Azure](https://leetcode.com/discuss/interview-experience/5299357/Interview-Experience%3A-Microsoft-SDE-2-or-Hyderabad-or-Azure)
   - [[Interview Experience]: MIcrosoft SDE-2 | Hyderabad](https://leetcode.com/discuss/interview-experience/5299198/Interview-Experience%3A-MIcrosoft-SDE-2-or-Hyderabad)
-  - [Agoda | SSE | Bangkok | Offer](https://leetcode.com/discuss/interview-experience/5290917/Agoda-or-SSE-or-Bangkok-or-Offer)
   - [Microsoft | SDE2 | Bangalore | 6th June 2024](https://leetcode.com/discuss/interview-experience/5272810/Microsoft-or-SDE2-or-Bangalore-or-6th-June-2024)
   - [Microsoft | SDE2 | Bangalore | 31 May 2024 [Reject]](https://leetcode.com/discuss/interview-experience/5269388/Microsoft-or-SDE2-or-Bangalore-or-31-May-2024-Reject)
   - 
@@ -34,4 +33,5 @@ Test Repository for tutorial
 
 ## Agoda
   - [Agoda Backend Interview Experience](https://interviewnoodle.com/agoda-interview-experience-de6abc2c7347)
+  - [Agoda | SSE | Bangkok | Offer](https://leetcode.com/discuss/interview-experience/5290917/Agoda-or-SSE-or-Bangkok-or-Offer)
 
