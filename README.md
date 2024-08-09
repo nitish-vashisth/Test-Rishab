@@ -19,6 +19,9 @@ Test Repository for tutorial
   - 15 [Microsoft | SDE2 | Bangalore | 6th June 2024](https://leetcode.com/discuss/interview-experience/5272810/Microsoft-or-SDE2-or-Bangalore-or-6th-June-2024)
   - 16 [Microsoft | SDE2 | Bangalore | 31 May 2024 [Reject]](https://leetcode.com/discuss/interview-experience/5269388/Microsoft-or-SDE2-or-Bangalore-or-31-May-2024-Reject)
   - 17 [Microsoft SDE-2](https://leetcode.com/discuss/interview-experience/5391568/Microsoft-SDE-2)
+  - 18 [Microsoft | SDE 2 (L61)| Hyderabad | Aug 2024  [Offer]](https://leetcode.com/discuss/interview-experience/5609448/Microsoft-or-SDE-2-(L61)or-Hyderabad-or-Aug-2024-Offer)
+  - 19 [Microsoft | SDE-2](https://leetcode.com/discuss/interview-experience/5605141/Microsoft-or-SDE-2)
+  - 
 
 ## Adobe
 
