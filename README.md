@@ -1,6 +1,9 @@
 # Test-Rishab
 Test Repository for tutorial
 
+## Genral Note
+  - Sometime the question could be asked in multi threaded environment also 
+
 ## Microsoft
   - 1 [Microsoft | L61 | Hyderabad | 12 July 204](https://leetcode.com/discuss/interview-experience/5511731/Microsoft-or-L61-or-Hyderabad-or-12-July-Waiting)
   - 2 [Microsoft | SDE2 | Bengaluru | Drive | 10 July 2024](https://leetcode.com/discuss/interview-experience/5465329/Microsoft-or-SDE2-or-Bengaluru-or-Drive-or-10-July)
@@ -24,6 +27,9 @@ Test Repository for tutorial
   - 
 
 ## Adobe
+  - Computer Scientist 1 (equivalent to SDE2 at other product companies)
+  - [Adobe | Noida | 8.5 yrs CS2 | Rejected](https://leetcode.com/discuss/interview-question/5273663/Adobe-or-Noida-or-8.5-yrs-CS2-or-Rejected)
+  - 
 
 ## Expedia
 
