@@ -26,6 +26,8 @@ Test Repository for tutorial
   - 19 [Microsoft | SDE-2](https://leetcode.com/discuss/interview-experience/5605141/Microsoft-or-SDE-2)
   - 20 [Microsoft | L64 | Hyderabad | Offer](https://leetcode.com/discuss/interview-experience/5618345/Microsoft-or-L64-or-Hyderabad-or-Offer)
   - 21 [Microsoft | L64 | Hyderabad | Offer](https://leetcode.com/discuss/interview-experience/5618345/Microsoft-or-L64-or-Hyderabad-or-Offer)
+  - After Date 27 August 2024
+  - [Microsoft | L62 | Hyderabad | Jul 2024 [Offer]](https://leetcode.com/discuss/interview-experience/5666847/Microsoft-or-L62-or-Hyderabad-or-Jul-2024-Offer)
 
 ## Adobe
   - Computer Scientist 1 (equivalent to SDE2 at other product companies)
